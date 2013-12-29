@@ -1,6 +1,6 @@
 Name: ipw2100-firmware
 Version: 1.3
-Release: 6
+Release: 7
 Summary: Intel PRO/Wireless 2100 firmware
 Source: ipw2100-fw-%{version}.tgz
 License: Proprietary
