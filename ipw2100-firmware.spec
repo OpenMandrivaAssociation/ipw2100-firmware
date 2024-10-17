@@ -5,7 +5,7 @@ Summary: Intel PRO/Wireless 2100 firmware
 Source: ipw2100-fw-%{version}.tgz
 License: Proprietary
 Group: System/Kernel and hardware
-URL: http://ipw2100.sourceforge.net
+URL: https://ipw2100.sourceforge.net
 BuildRoot: %{_tmppath}/%{name}-%{version}
 BuildArch: noarch
 
